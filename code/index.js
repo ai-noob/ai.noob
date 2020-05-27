@@ -145,12 +145,12 @@ function animate(){
 
     mouseLines.forEach(line => {
         if (line.getLength() > 100 && line.opacity > 0) {
-            line.opacity -= 0.01
+            line.opacity -= 0.03
             line.color = "rgba(255, 255, 255, " + line.opacity + ")"
         }
         else if (line.getLength() < 100 && line.opacity < 1) {
             // console.log("true")
-            line.opacity += 0.01
+            line.opacity += 0.04
             line.color = "rgba(255, 255, 255, " + line.opacity + ")"
         }
         line.draw()
