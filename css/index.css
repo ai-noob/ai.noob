@@ -1,4 +1,11 @@
 body {
+
+    margin: 0;
+    padding: 0;
+    background-color: #1b1b1b;
+}
+#root{
+    height: 0;
   margin: 0;
   padding: 0;
   background-color: #1b1b1b;
@@ -23,4 +30,5 @@ canvas {
 }
 #intro-logo {
   font-size: 50px;
+
 }
