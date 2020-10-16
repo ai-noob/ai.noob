@@ -1,0 +1,23 @@
+{
+    "name": "ai.noob",
+    "version": "1.0.0",
+    "description": "Official website of NOObs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ai-noob/ai.noob.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ai-noob/ai.noob/issues"
+    },
+    "homepage": "https://github.com/ai-noob/ai.noob#readme",
+    "keywords": [],
+    "dependencies": {
+        "bootstrap": "^4.5.2"
+    }
+}
