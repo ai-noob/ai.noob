@@ -8,5 +8,4 @@
 ```sh
 $ npm i
 ```
-=======
 # Official Page
